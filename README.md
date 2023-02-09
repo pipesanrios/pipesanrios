@@ -8,7 +8,7 @@
 - Experiencia de mas de 5 años realizando sitios web en: Wordpress, Shopify, Wix, entre otros CMS
 - Tengo conocimientos en Photoshop, Illustrator, Adobe XD, Figma
 
-#### Full Stack Junior- trainee
+#### Front End Junior- trainee
 * Ha medida que fui tomando más experiencia en el diseño web me di cuenta de lo importante que es la programacion, ya que a medida que iba trabajando se me iban presentando casos en los cuales era requerido tener conocimientos mas avanzados *
 ##### Ahora me estoy preparando para ser un Desarrollador Full Stack
 ```javascript
